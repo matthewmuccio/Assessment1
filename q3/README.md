@@ -1,6 +1,5 @@
 Super Trader
 ============
-
 Now it's time to make our stock trader game - remember, greed is good!
 
 First, import the wrapper you wrote around the Markit API. We're going to need that functionality.
